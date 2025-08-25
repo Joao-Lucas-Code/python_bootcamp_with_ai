@@ -8,5 +8,6 @@ class Casa:
 
 casa1 = Casa("azul", 100)
 casa2 = Casa("vermelha", 150)
+
 print(casa1.descrever())
 print(casa2.descrever())
