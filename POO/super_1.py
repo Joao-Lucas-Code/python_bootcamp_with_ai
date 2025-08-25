@@ -26,7 +26,9 @@ class Professor(Pessoa):
         print(f'{self.nome} está ensinando {self.disciplina}.')
 
 a1 = Aluno("Caua", 17, "2024001")
+
 p1 = Professor("João", 20, "Programação")
 
 a1.estudar()
+
 p1.ensinar()
