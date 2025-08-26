@@ -32,3 +32,8 @@ class Computador:
 # Utilização
 pc1 = Computador("Dell", "Inspiron", "NVIDIA GTX 1660", 6, "Intel i7", 8, 3.6)
 pc1.mostrar_configuracao()
+
+print()
+
+pc2 = Computador("HP", "Pavilion", "NVIDIA RTX 3060", 12, "AMD Ryzen 7", 8, 4.0)
+pc2.mostrar_configuracao()
