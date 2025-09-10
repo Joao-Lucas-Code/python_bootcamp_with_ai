@@ -1,0 +1,12 @@
+num1 = int(input("Digite um número inteiro: "))
+num2 = float(input("Digite um número decimal: "))
+
+print(f"A soma de {num1} e {num2} é {num1 + num2}")
+print(f"A subtração de {num1} e {num2} é {num1 - num2}")
+print(f"A multiplicação de {num1} e {num2} é {num1 * num2}")
+print(f"A divisão de {num1} e {num2} é {num1 / num2}")
+print(f"O módulo de {num1} e {num2} é {num1 % num2}")
+print(f"A potência de {num1} elevado a {num2} é {num1 ** num2}")
+print(f"A divisão inteira de {num1} e {num2} é {num1 // num2}")
+print(f"O valor absoluto de {num1} é {abs(num1)}")
+print(f"O valor arredondado de {num2} é {round(num2)}")
